@@ -1,4 +1,4 @@
-package hackerrankchalenge;
+package hackerrankchalenge.easy;
 
 public class NumberLineJumps {
 

@@ -1,4 +1,4 @@
-package hackerrankchalenge;
+package hackerrankchalenge.easy;
 
 import java.sql.Array;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package hackerrankchalenge;
+package hackerrankchalenge.easy;
 
 import java.util.List;
 import java.util.stream.IntStream;
